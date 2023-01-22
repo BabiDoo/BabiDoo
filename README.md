@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BabiDoo
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Java Script and doing the CS50 course.
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me barbara.laisdorneles@gmail.com
 
 <!---
