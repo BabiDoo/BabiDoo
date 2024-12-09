@@ -1,7 +1,7 @@
  Hello, there! :sparkles:
 
   ---
-  > So, everything I write is a story, and inside my mind,
+  > So, everything I write is a story and inside my mind,
 there's a complex and bustling world that I can't ignore.
 
   — BabiDoo
