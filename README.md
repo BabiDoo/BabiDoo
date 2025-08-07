@@ -25,9 +25,10 @@ education:
 currently_learning:
  [
     "Backend Development",
-    "Mathematics for Machine Learning",
+    "LLM Agents",
     "Data Structures and Algorithms",
-    "Cybersecurity fundamentals"
+    "Docker",
+    "CI/CD"
  ]
 
 volunteering:
@@ -41,7 +42,8 @@ fields_of_interest:
     "Cybersecurity",
     "Artificial Intelligence",
     "Backend Development",
-    "Open Source"
+    "Open Source",
+    "Clean Code"
 ]
 
 
