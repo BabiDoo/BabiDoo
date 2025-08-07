@@ -1,8 +1,4 @@
- Hello, there! :sparkles:
-
-  ---
-
-## babi
+## Hi! 👋 I'm Barbara 
 
 
 ``` yaml
