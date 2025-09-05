@@ -13,8 +13,7 @@ location:
 
 education:
 [
-    "Currently: Continuing Bachelor in Computer Science (2025)",
-    "Previously: Computer Science (2022) and Computer Engineering (2023)"
+    "pucminas: Software Engineering"
 ]
 
 
