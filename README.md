@@ -13,7 +13,7 @@ location:
 
 education:
 [
-    "pucminas: Software Engineering"
+    "pucminas": Software Engineering"
 ]
 
 
