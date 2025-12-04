@@ -17,13 +17,13 @@ education:
 
 
 currently_learning:
- [
+[
     "Backend Development",
     "LLM's",
     "RAG",
     "Docker",
     "CI/CD"
- ]
+]
 
 
 fields_of_interest:
