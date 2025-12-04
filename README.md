@@ -6,8 +6,7 @@ name: Barbara Dorneles
 
 location:
 [
-    currently_based: Belo Horizonte 🇧🇷
-    origin: Brazil 🇧🇷
+    currently_based: Brazil 🇧🇷
     languages: Portuguese, English
 ]
 
@@ -20,16 +19,12 @@ education:
 currently_learning:
  [
     "Backend Development",
-    "LLM Agents",
-    "Data Structures and Algorithms",
+    "LLM's",
+    "RAG",
     "Docker",
     "CI/CD"
  ]
 
-volunteering:
-[
-    "Free online course instructor: Introduction to Programming Logic and Algorithms"
-]
 
 fields_of_interest:
 [
