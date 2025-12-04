@@ -5,36 +5,26 @@
 name: Barbara Dorneles
 
 location:
-[
-    currently_based: Brazil 🇧🇷
-    languages: Portuguese, English
-]
+  currently_based: Brazil BR
+  languages:
+    - Portuguese
+    - English
 
 education:
-[
-    pucminas: "Software Engineering"
-]
-
+  pucminas: "Software Engineering"
 
 currently_learning:
-[
-    "Backend Development",
-    "LLM's",
-    "RAG",
-    "Docker",
-    "CI/CD"
-]
-
+  - "Backend Development"
+  - "LLM's"
+  - "RAG"
+  - "Docker"
+  - "CI/CD"
 
 fields_of_interest:
-[
-    "Software Engineering",
-    "Cybersecurity",
-    "Artificial Intelligence",
-    "Backend Development",
-    "Open Source",
-    "Clean Code"
-]
-
-
+  - "Software Engineering"
+  - "Cybersecurity"
+  - "Artificial Intelligence"
+  - "Backend Development"
+  - "Open Source"
+  - "Clean Code"
 ```
