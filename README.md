@@ -3,28 +3,27 @@
 
 ``` yaml
 name: Barbara Dorneles
+location: Brazil BR
 
-location:
-  currently_based: Brazil BR
-  languages:
-    - Portuguese
-    - English
+languages:
+  - Portuguese
+  - English
 
 education:
-  pucminas: "Software Engineering"
+  - institution: PUC MINAS
+    degree: Software Engineering
 
 currently_learning:
-  - "Backend Development"
-  - "LLM's"
-  - "RAG"
-  - "Docker"
-  - "CI/CD"
+  - Backend Development
+  - LLMs
+  - RAG
+  - Docker
+  - CI/CD
 
 fields_of_interest:
-  - "Software Engineering"
-  - "Cybersecurity"
-  - "Artificial Intelligence"
-  - "Backend Development"
-  - "Open Source"
-  - "Clean Code"
+  - Software Engineering
+  - Cybersecurity
+  - Artificial Intelligence
+  - Backend Development
+  - Clean Code
 ```
