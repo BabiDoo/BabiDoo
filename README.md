@@ -15,10 +15,10 @@ education:
 
 currently_learning:
   - Backend Development
-  - LLMs
-  - RAG
-  - Docker
-  - CI/CD
+  - Spec-Driven Development
+  - Supabase
+  - BullMQ
+  - Redis
 
 fields_of_interest:
   - Software Engineering
