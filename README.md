@@ -16,6 +16,7 @@ education:
 currently_learning:
   - Backend Development
   - Spec-Driven Development
+  - Harness
   - Supabase
   - BullMQ
   - Redis
