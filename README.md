@@ -1,17 +1,16 @@
-## Hi! 👋 I'm Barbara 
+## Hi! 👋 I'm Barbara
 
-
-``` yaml
+```yaml
 name: Barbara Dorneles
-location: Brazil BR
+location: Brazil, BR
 
 languages:
   - Portuguese
   - English
 
 education:
-  - institution: PUC MINAS
-    degree: Software Engineering
+  institution: PUC Minas
+  degree: Software Engineering
 
 currently_learning:
   - System Design & Software Architecture
@@ -26,4 +25,3 @@ fields_of_interest:
   - Intelligent Automation
   - Data Science & Analytics
   - Cybersecurity
-```
