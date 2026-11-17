@@ -14,17 +14,16 @@ education:
     degree: Software Engineering
 
 currently_learning:
-  - Backend Development
-  - Spec-Driven Development
-  - Harness
-  - Supabase
-  - BullMQ
-  - Redis
+  - System Design & Software Architecture
+  - AI Engineering & LLM Applications
+  - Cloud Infrastructure & DevOps
+  - API Security
 
 fields_of_interest:
   - Software Engineering
+  - Artificial Intelligence & Machine Learning
+  - Backend & Distributed Systems
+  - Intelligent Automation
+  - Data Science & Analytics
   - Cybersecurity
-  - Artificial Intelligence
-  - Backend Development
-  - Clean Code
 ```
